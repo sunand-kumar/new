@@ -1,0 +1,5 @@
+Loan Prediction Analysis with Machine Learning
+ I recently worked on a machine learning project focused on predicting loan approvals based on applicant data.
+ 📊 Using classification models, I analyzed key features like credit history, income, and loan amount to improve decision-making.
+ 📈 The goal was to reduce default risk and automate the loan approval process efficiently.
+ 💡 This project highlights how ML can bring smarter, faster decisions in the financial sector!
